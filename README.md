@@ -1,2 +1,2 @@
-# python
-# some self-develop testing tools for software testing
+- python
+- some self-develop testing tools for software testing
